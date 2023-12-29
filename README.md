@@ -1,2 +1,2 @@
 > [!Note]
-> Here is all my React projects and codes.
+> Here are all my React projects and codes.
