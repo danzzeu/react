@@ -1,0 +1,12 @@
+.input {
+    display: flex;
+    width: 100%;
+    padding: 15px 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.validate {
+    border: 1px solid red !important;
+}
