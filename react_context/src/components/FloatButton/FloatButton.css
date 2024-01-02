@@ -1,0 +1,14 @@
+.floatbutton {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 0;
+    color: #ffffff;
+    background-color: #333333;
+    cursor: pointer;
+}
+
+.float-dark { background-color: #ffffff; color: #333333; }
+.float-light { background-color: #333333; color: #ffffff; }
